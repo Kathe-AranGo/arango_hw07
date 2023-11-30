@@ -1,0 +1,13 @@
+Package: KatherinHW07
+Type: Package
+Title: Removing rows and columns from a data set
+Version: 0.1.0
+Author: Katherin Arango-Gomez
+Maintainer: Katherin Arango-Gomez <larang1@lsu.edu>
+Description: This package consists in two scripts, each one of them with one functions.
+    The first script, hw_07_rows, holds the function "rm_0s_by_row" which will remove rows with all 0s in a matrix.
+    On the other hand, the second script, hw_07_columns, holds the function "rm_0s_by_col"" which will remove columns with all 0s in a matrix.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
